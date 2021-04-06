@@ -8,6 +8,7 @@ Running the code.c file (resulting into seg fault)
 ![output](https://user-images.githubusercontent.com/35663501/113765343-c345e580-9739-11eb-9ca8-f44658cbd155.png)
 
 Checking the log files
+
 ![syslog](https://user-images.githubusercontent.com/35663501/113765429-deb0f080-9739-11eb-8fe5-a2f0593b409a.png)
 
 Here, we could see segfault at address 0xffffffffc03d6000 with error code 5
